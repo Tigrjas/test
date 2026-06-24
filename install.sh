@@ -23,8 +23,8 @@ CURRENT_STEP=0      # Tracks progress bar position
 # CONFIG — Edit this section to personalise the script
 # ==============================================================================
 
-DOTFILES_REPO="https://github.com/yourusername/dotfiles.git"
-DOTFILES_DIR="$HOME/.dotfiles"
+DOTFILES_REPO="https://github.com/Tigrjas/test"
+DOTFILES_DIR="$HOME/Projects/dotfiles"
 
 # Packages to install on each distro.
 # Add or remove names from these arrays.
